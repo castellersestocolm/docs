@@ -3,7 +3,7 @@
 ## 👋 Membres / Members <a href="#membres" id="membres"></a>
 
 * [Inscripció / Join](README.md)
-* [Material](membres/material.md)
+* [Equipació / Outfit](membres/equipacio.md)
 
 ## 📝 Recursos / Resources <a href="#recursos" id="recursos"></a>
 
