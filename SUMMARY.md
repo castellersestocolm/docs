@@ -4,6 +4,7 @@
 
 * [Inscripció / Join](README.md)
 * [Equipació / Outfit](membres/equipacio.md)
+* [Calendari / Calendar](membres/calendari-calendar.md)
 
 ## 📝 Recursos / Resources <a href="#recursos" id="recursos"></a>
 
